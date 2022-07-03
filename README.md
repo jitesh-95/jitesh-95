@@ -17,7 +17,7 @@
 ### 🏆 Github Stats:
 <br/>
   <a href="https://github.com/jitesh-95?tab=repositories">
-    <img width="500" height="auto" align="left" alt="Jitesh's github stats" 
+    <img width="500" height="auto" align="right" alt="Jitesh's github stats" 
          src="https://github-readme-stats.vercel.app/api?username=jitesh-95&show_icons=true&theme=algolia&count_private=true" />
   </a>
 
