@@ -12,7 +12,7 @@
 
 <br/>
 
-
+<img alt="Jha-Vineet69's Top Languages Stats" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jitesh-95&hide=smalltalk&theme=algolia&layout=compact&hide_border=true" width="500"/>
 
 
 
