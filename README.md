@@ -23,28 +23,28 @@
 ---
 
 ### 👨‍💻 Languages and Tools:
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/html5.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/js.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/npm.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/node.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/react.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/redux.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/github.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/heroku.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/github.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/github.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/github.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/html5.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/js.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/npm.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/node.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/react.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/redux.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/github.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/heroku.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/github.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/github.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/github.png"></code>
 <br>
 
 ---
 
-<h4>Desktop Environment: </h4>
-<code><img height="40" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/slack.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/vsc.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/win11.png"></code>
+### Desktop Environment:
+<code><img height="50" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/slack.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/vsc.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/win10.png"></code>
 
 ---
 
