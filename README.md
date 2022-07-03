@@ -1,4 +1,4 @@
-### Hi there, I'm Jitesh Sirohi 👋
+### Hi there, I'm Jitesh Sirohi 👋  [Website](https://jiteshsirohi-portfolio.netlify.app)
 
 [![Linkedin Badge](https://img.shields.io/badge/-JiteshSirohi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jitesh-sirohi-ba4636136/)](https://www.linkedin.com/in/jitesh-sirohi-ba4636136/) [![Medium Badge](https://img.shields.io/badge/-@JiteshSirohi-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@1995sirohis)](https://medium.com/@1995sirohis)
 [![Gmail Badge](https://img.shields.io/badge/-1995sirohis@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:1995sirohis@gmail.com)](mailto:1995sirohis@gmail.com)
@@ -10,6 +10,7 @@
 - 🌏 Looking to solve real-world problems.
 - 💻 I'm passionate about making creating websites.
 - ⚡ Fun fact: I love to be fit first.
+- 💬 Ask me about Javascript, HTML, CSS, React, Redux, Nodejs, Git, Chakra Ui, Material Ui, Bootstrap, Node Js, Npm
 - 🙏 Do 🌟 my repository if you find my projects interesting, at least your star could make someone's day.<br/>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"><em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
 
@@ -34,8 +35,8 @@
 <code><img height="50" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/redux.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/github.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/heroku.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/github.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/github.png"></code>
+<code><img height="50" src="https://img.shields.io/badge/Chakra%20UI-3bc7bd?style=for-the-badge&logo=chakraui&logoColor=white"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/chakraUI.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/github.png"></code>
 <br>
 
