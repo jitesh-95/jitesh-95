@@ -36,7 +36,7 @@
 <code><img height="50" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/github.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/heroku.png"></code>
 <code><img height="50" width="40" src="https://img.shields.io/badge/-3bc7bd?logo=chakraui&logoColor=white"></code>
-<code><img height="50" src="https://img.shields.io/badge/styled--components-DB7093?logo=styled-components&logoColor=white"></code>
+<code><img height="50" src="https://img.shields.io/badge/-DB7093?logo=styled-components&logoColor=white"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/github.png"></code>
 <br>
 
