@@ -11,7 +11,7 @@
 <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
 
 <br/>
-
+<p display="flex">
 <img alt="Jha-Vineet69's Top Languages Stats" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jitesh-95&hide=smalltalk&theme=algolia&layout=compact" width="500"/>
 
 
@@ -20,13 +20,7 @@
     <img width="500" height="auto" align="right" alt="Jitesh's github stats" 
          src="https://github-readme-stats.vercel.app/api?username=jitesh-95&show_icons=true&theme=algolia&count_private=true" />
   </a>
+</p>
 
-<br/>
 
-
-<br/>
-<br/>
-<br/>
-<br/>
----
 <img src="https://i.imgur.com/rilHVxA.png" width=100%> 
