@@ -70,10 +70,7 @@
 
 ---
 
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg) <br/>
 
-<img src="https://i.imgur.com/rilHVxA.png" width=100%> <br/>
-
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-
-
+<img src="https://i.imgur.com/rilHVxA.png" width=100%> 
 
