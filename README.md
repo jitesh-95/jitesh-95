@@ -1,5 +1,9 @@
 ### Hi there, I'm Jitesh Sirohi 👋
 
+[![Linkedin Badge](https://img.shields.io/badge/-harshkumarkhatri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/jitesh-sirohi-ba4636136/) [![Medium Badge](https://img.shields.io/badge/-@mailharshkhatri-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@1995sirohis)](https://medium.com/@1995sirohis)
+[![Gmail Badge](https://img.shields.io/badge/-1995sirohis@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:1995sirohis@gmail.com)](mailto:1995sirohis@gmail.com)
+
+---
 
 ## I'm a Software Engineer and Life Long Learner!
 - 🌱 I’m currently Learning MERN Stack at Masai School.
@@ -12,13 +16,19 @@
 
 ---
 
+### 👨‍💻 Languages and Tools:
+
+<br>
+
+---
+
 <p display="flex" >
-<img alt="Jha-Vineet69's Top Languages Stats"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jitesh-95&hide=smalltalk&theme=algolia&layout=compact" width="500" />
+<img alt="Jha-Vineet69's Top Languages Stats"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jitesh-95&hide=smalltalk&theme=algolia&layout=compact" width="450" />
 
 
 
   <a href="https://github.com/jitesh-95?tab=repositories">
-    <img width="500" height="auto"  alt="Jitesh's github stats" 
+    <img width="450" height="auto"  alt="Jitesh's github stats" 
          src="https://github-readme-stats.vercel.app/api?username=jitesh-95&show_icons=true&theme=algolia&count_private=true" />
   </a>
 </p>
