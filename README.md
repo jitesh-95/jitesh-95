@@ -10,17 +10,17 @@
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> 
 <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
 
-<br/>
-<p display="flex" gap="10%">
-<img alt="Jha-Vineet69's Top Languages Stats"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jitesh-95&hide=smalltalk&theme=algolia&layout=compact" width="500"/>
+---
+
+<img alt="Jha-Vineet69's Top Languages Stats"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jitesh-95&hide=smalltalk&theme=algolia&layout=compact" width="450"/>
 
 
 
   <a href="https://github.com/jitesh-95?tab=repositories">
-    <img width="500" height="auto"  alt="Jitesh's github stats" 
+    <img width="450" height="auto"  alt="Jitesh's github stats" 
          src="https://github-readme-stats.vercel.app/api?username=jitesh-95&show_icons=true&theme=algolia&count_private=true" />
   </a>
-</p>
 
+---
 
 <img src="https://i.imgur.com/rilHVxA.png" width=100%> 
