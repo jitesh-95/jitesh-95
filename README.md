@@ -1,6 +1,6 @@
 ### Hi there, I'm Jitesh Sirohi 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-harshkumarkhatri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/jitesh-sirohi-ba4636136/) [![Medium Badge](https://img.shields.io/badge/-@mailharshkhatri-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@1995sirohis)](https://medium.com/@1995sirohis)
+[![Linkedin Badge](https://img.shields.io/badge/-JiteshSirohi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jitesh-sirohi-ba4636136/)](https://www.linkedin.com/in/jitesh-sirohi-ba4636136/) [![Medium Badge](https://img.shields.io/badge/-@JiteshSirohi-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@1995sirohis)](https://medium.com/@1995sirohis)
 [![Gmail Badge](https://img.shields.io/badge/-1995sirohis@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:1995sirohis@gmail.com)](mailto:1995sirohis@gmail.com)
 
 ---
