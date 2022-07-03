@@ -16,6 +16,13 @@
 
 ---
 
+
+<h4 align="center">Visitor's count :eyes:</h4>
+
+<p align="center"><img src="https://profile-counter.glitch.me/{jitesh-95}/count.svg" alt="jitesh-95 :: Visitor's Count" /></p>
+
+---
+
 ### 👨‍💻 Languages and Tools:
 
 <br>
