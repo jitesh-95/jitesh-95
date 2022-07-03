@@ -12,7 +12,7 @@
 
 <br/>
 
-<img alt="Jha-Vineet69's Top Languages Stats" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jitesh-95&hide=smalltalk&theme=algolia&layout=compact&hide_border=true" width="500"/>
+<img alt="Jha-Vineet69's Top Languages Stats" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jitesh-95&hide=smalltalk&theme=algolia&layout=compact" width="500"/>
 
 
 
@@ -23,10 +23,10 @@
 
 <br/>
 
-⭐️ From [Jitesh Siorhi](https://github.com/jitesh-95)
 
 <br/>
 <br/>
 <br/>
 <br/>
+---
 <img src="https://i.imgur.com/rilHVxA.png" width=100%> 
