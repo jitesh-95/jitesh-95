@@ -11,7 +11,11 @@
 <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
 
 <br/>
+
+
+
 ### 🏆 Github Stats:
+<br/>
   <a href="https://github.com/jitesh-95?tab=repositories">
     <img width="500" height="auto" align="left" alt="Jitesh's github stats" 
          src="https://github-readme-stats.vercel.app/api?username=jitesh-95&show_icons=true&theme=algolia&count_private=true" />
@@ -29,4 +33,4 @@
 <br/>
 <br/>
 <br/>
-<img src="https://i.imgur.com/rilHVxA.png" width="100%"> 
+<img src="https://i.imgur.com/rilHVxA.png" width=100%> 
