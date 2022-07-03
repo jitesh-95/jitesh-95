@@ -20,11 +20,7 @@
     <img width="500" height="auto" align="left" alt="Jitesh's github stats" 
          src="https://github-readme-stats.vercel.app/api?username=jitesh-95&show_icons=true&theme=algolia&count_private=true" />
   </a>
-<br/>
 
-
-[linkedin](https://www.linkedin.com/in/jitesh-sirohi-ba4636136)
-[gmail](mailto:1995sirohis@gmail.com)
 <br/>
 
 ⭐️ From [Jitesh Siorhi](https://github.com/jitesh-95)
