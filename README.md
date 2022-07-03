@@ -11,20 +11,6 @@
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
 
 
----
-
-
-### 🤝 Connect with me:
-![](https://komarev.com/ghpvc/?username=jitesh-95&color=7957d5)
-
-[<img align="left" alt="jitesh-95 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
-
-[<img align="left" alt="jitesh-95 | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/>][gmail]
-
-[<img align="left" alt="jitesh-95 | Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg"/>][leetcode]
-
-<br>
-
 
 ### 🏆 Github Stats:
  ### Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
