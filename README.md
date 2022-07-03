@@ -7,7 +7,6 @@
 - 💻 I'm passionate about making creating websites.
 - ⚡ Fun fact: I love to be fit first.
 - 🙏 Do 🌟 my repository if you find my projects interesting, at least your star could make someone's day.
-<br/>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
 
 
