@@ -27,15 +27,27 @@
 <code><img height="40" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/html5.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/js.png" alt=javascript></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/js.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/npm.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/node.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/react.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/redux.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/github.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/heroku.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/github.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/github.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/github.png"></code>
 <br>
 
 ---
+
+<h4>Desktop Environment: </h4>
+<code><img height="40" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/slack.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/vsc.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/win11.png"></code>
+
+---
+
 
 <p display="flex" >
 <img alt="Jha-Vineet69's Top Languages Stats"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jitesh-95&hide=smalltalk&theme=algolia&layout=compact" width="450" />
