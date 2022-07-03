@@ -51,12 +51,12 @@
 
 
 <p display="flex" >
-<img alt="Jha-Vineet69's Top Languages Stats"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jitesh-95&hide=smalltalk&theme=algolia&layout=compact" width="450" />
+<img alt="Jha-Vineet69's Top Languages Stats"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jitesh-95&hide=smalltalk&theme=algolia&layout=compact" width="400" />
 
 
 
   <a href="https://github.com/jitesh-95?tab=repositories">
-    <img width="450" height="auto"  alt="Jitesh's github stats" 
+    <img width="400" height="auto"  alt="Jitesh's github stats" 
          src="https://github-readme-stats.vercel.app/api?username=jitesh-95&show_icons=true&theme=algolia&count_private=true" />
   </a>
 </p>
