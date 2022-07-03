@@ -1,6 +1,9 @@
-### Hi there, I'm Jitesh Sirohi 👋  [Website](https://jiteshsirohi-portfolio.netlify.app)
+### Hi there, I'm Jitesh Sirohi 👋  
 
-[![Linkedin Badge](https://img.shields.io/badge/-JiteshSirohi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jitesh-sirohi-ba4636136/)](https://www.linkedin.com/in/jitesh-sirohi-ba4636136/) [![Medium Badge](https://img.shields.io/badge/-@JiteshSirohi-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@1995sirohis)](https://medium.com/@1995sirohis)
+<a href="https://jiteshsirohi-portfolio.netlify.app">
+  <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://jiteshsirohi-portfolio.netlify.app" />
+</a>
+[![Linkedin Badge](https://img.shields.io/badge/-Jitesh Sirohi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jitesh-sirohi-ba4636136/)](https://www.linkedin.com/in/jitesh-sirohi-ba4636136/) [![Medium Badge](https://img.shields.io/badge/-@JiteshSirohi-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@1995sirohis)](https://medium.com/@1995sirohis)
 [![Gmail Badge](https://img.shields.io/badge/-1995sirohis@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:1995sirohis@gmail.com)](mailto:1995sirohis@gmail.com)
 
 ---
