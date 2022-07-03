@@ -23,8 +23,8 @@
 <br/>
 
 
-[linkedin]: https://www.linkedin.com/in/jitesh-sirohi-ba4636136
-[gmail]: mailto:1995sirohis@gmail.com
+[linkedin](https://www.linkedin.com/in/jitesh-sirohi-ba4636136)
+[gmail](mailto:1995sirohis@gmail.com)
 <br/>
 
 ⭐️ From [Jitesh Siorhi](https://github.com/jitesh-95)
