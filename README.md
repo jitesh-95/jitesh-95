@@ -26,4 +26,7 @@
 ⭐️ From [Jitesh Siorhi](https://github.com/jitesh-95)
 
 <br/>
-<img src="https://i.imgur.com/rilHVxA.png"> 
+<br/>
+<br/>
+<br/>
+<img src="https://i.imgur.com/rilHVxA.png" width="100%"> 
