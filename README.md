@@ -1,7 +1,7 @@
 ### Hi there, I'm Jitesh Sirohi 👋  
 
-<a href="https://jiteshsirohi-portfolio.netlify.app">
-  <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://jiteshsirohi-portfolio.netlify.app" />
+<a href="https://jitesh-sirohi.vercel.app">
+  <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://jitesh-sirohi.vercel.app" />
 </a>
 <a title="1995sirohis@gmail.com" href="mailto:1995sirohis@gmail.com">
   <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="1995sirohis@gmail.com" />
