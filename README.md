@@ -31,20 +31,24 @@
 ---
 
 ### 👨‍💻 Languages and Tools:
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/html5.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/js.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/npm.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/node.png"></code>
+<code><img height="50" src="https://github.com/tandpfun/skill-icons/raw/main/icons/TypeScript.svg"></code>
+<code><img height="50" src="https://github.com/mongodb-js/leaf/blob/master/dist/mongodb-leaf_32x32@2x.png?raw=true"></code>
+<code><img height="50" src="https://github.com/tandpfun/skill-icons/raw/main/icons/ExpressJS-Dark.svg"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/react.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/node.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/redux.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/npm.png"></code>
+<code><img height="50" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/github.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/heroku.png"></code>
-<code><img height="50" width="50" src="https://img.shields.io/badge/-3bc7bd?logo=chakraui&logoColor=white"></code>
-<code><img height="50" width="50" src="https://img.shields.io/badge/-DB7093?logo=styled-components&logoColor=white"></code>
-<code><img height="50" width="50" src="https://img.shields.io/badge/-007FFF?style=for-the-badge&logo=mui&logoColor=white"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg"></code>
+<code><img height="50" src="https://github.com/tandpfun/skill-icons/raw/main/icons/FastAPI.svg"></code>
+<code><img height="50" src="https://github.com/tandpfun/skill-icons/raw/main/icons/StyledComponents.svg"></code>
+<code><img height="50" src="https://github.com/tandpfun/skill-icons/raw/main/icons/MaterialUI-Dark.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/rapidapi/rapidapi-icon.svg"></code>
 <br>
 
 ---
@@ -57,7 +61,7 @@
 ---
 
 
-<p display="flex" >
+<p display="flex" align="center">
 <img alt="Jha-Vineet69's Top Languages Stats"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jitesh-95&hide=smalltalk&theme=algolia&layout=compact" width="400" />
 
 
@@ -66,11 +70,11 @@
     <img width="400" height="auto"  alt="Jitesh's github stats" 
          src="https://github-readme-stats.vercel.app/api?username=jitesh-95&show_icons=true&theme=algolia&count_private=true" />
   </a>
+  
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jitesh-95&hide=smalltalk&theme=algolia&layout=compact" alt="jitesh-95" />
 </p>
 
 ---
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg) <br/>
-
-<img src="https://i.imgur.com/rilHVxA.png" width=100%> 
 
