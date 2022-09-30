@@ -24,12 +24,6 @@
 ---
 
 
-<h4 align="center">Visitor's count :eyes:</h4>
-
-<p align="center"><img src="https://profile-counter.glitch.me/{jitesh-95}/count.svg" alt="jitesh-95 :: Visitor's Count" /></p>
-
----
-
 ### 👨‍💻 Languages and Tools:
 <code><img height="50" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/html5.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"></code>
@@ -57,6 +51,17 @@
 <code><img height="50" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/slack.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/vsc.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/win10.png"></code>
+
+---
+
+
+<h4 align="center">Visitor's count :eyes:</h4>
+
+<p align="center"><img src="https://profile-counter.glitch.me/{jitesh-95}/count.svg" alt="jitesh-95 :: Visitor's Count" /></p>
+
+---
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jitesh-95" alt="jitesh" /></a> </p>
 
 ---
 
