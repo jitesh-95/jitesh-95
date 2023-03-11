@@ -67,10 +67,10 @@
 ---
 
 <p>
-  <img  height="140" alt="Jha-Vineet69's Top Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jitesh-95&hide=smalltalk&theme=algolia&layout=compact"/>
+  <img  height="120" alt="Jha-Vineet69's Top Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jitesh-95&hide=smalltalk&theme=algolia&layout=compact"/>
 
- <img height="140" alt="Jitesh's github stats" src="https://github-readme-stats.vercel.app/api?username=jitesh-95&show_icons=true&theme=algolia&count_private=true" />
- <img height="140" src="https://github-readme-streak-stats.herokuapp.com/?user=jitesh-95&hide=smalltalk&theme=algolia&layout=compact" alt="jitesh-95" />
+ <img height="120" alt="Jitesh's github stats" src="https://github-readme-stats.vercel.app/api?username=jitesh-95&show_icons=true&theme=algolia&count_private=true" />
+ <img height="120" src="https://github-readme-streak-stats.herokuapp.com/?user=jitesh-95&hide=smalltalk&theme=algolia&layout=compact" alt="jitesh-95" />
   
 </p>  
 
