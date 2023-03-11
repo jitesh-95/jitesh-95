@@ -1,4 +1,4 @@
-### Hi there, I'm Jitesh Sirohi 👋  
+## Hi there, I'm Jitesh Sirohi 👋  
 
 <a href="https://jitesh-sirohi.vercel.app">
   <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://jitesh-sirohi.vercel.app" />
@@ -9,6 +9,10 @@
 <a href="https://www.linkedin.com/in/jitesh-sirohi-ba4636136/">
   <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/jitesh-sirohi-ba4636136/" />
 </a>
+<p align="right">
+   Visitor's count 👀 
+   <p align="right"> <img width="200" src="https://profile-counter.glitch.me/{jitesh-95}/count.svg" alt="jitesh-95 :: Visitor's Count" /></p>
+ </p>
 
 ---
 
@@ -24,60 +28,51 @@
 ---
 
 
-### 👨‍💻 Languages and Tools:
-<code><img height="50" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/html5.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/js.png"></code>
-<code><img height="50" src="https://github.com/tandpfun/skill-icons/raw/main/icons/TypeScript.svg"></code>
-<code><img height="50" src="https://github.com/mongodb-js/leaf/blob/master/dist/mongodb-leaf_32x32@2x.png?raw=true"></code>
-<code><img height="50" src="https://github.com/tandpfun/skill-icons/raw/main/icons/ExpressJS-Dark.svg"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/react.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/node.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/redux.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/npm.png"></code>
-<code><img height="50" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/github.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/heroku.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg"></code>
-<code><img height="50" src="https://github.com/tandpfun/skill-icons/raw/main/icons/FastAPI.svg"></code>
-<code><img height="50" src="https://github.com/tandpfun/skill-icons/raw/main/icons/StyledComponents.svg"></code>
-<code><img height="50" src="https://github.com/tandpfun/skill-icons/raw/main/icons/MaterialUI-Dark.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/rapidapi/rapidapi-icon.svg"></code>
-<br>
-
----
-
-### Desktop Environment:
-<code><img height="50" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/slack.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/vsc.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/win10.png"></code>
-
----
-
-
-<h4 align="center">Visitor's count :eyes:</h4>
-
-<p align="center"><img src="https://profile-counter.glitch.me/{jitesh-95}/count.svg" alt="jitesh-95 :: Visitor's Count" /></p>
-
----
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jitesh-95" alt="jitesh" /></a> </p>
-
----
-
-
-<p display="flex" align="center">
-<img alt="Jha-Vineet69's Top Languages Stats"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jitesh-95&hide=smalltalk&theme=algolia&layout=compact" width="400" />
-
-
-
-  <a href="https://github.com/jitesh-95?tab=repositories">
-    <img width="400" height="auto"  alt="Jitesh's github stats" 
-         src="https://github-readme-stats.vercel.app/api?username=jitesh-95&show_icons=true&theme=algolia&count_private=true" />
-  </a>
-  
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jitesh-95&hide=smalltalk&theme=algolia&layout=compact" alt="jitesh-95" />
+## 👨‍💻 Languages and Tools:
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" />
+  <img src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=TypeScript&logoColor=white" alt="TypeScript">
 </p>
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="expressjs" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactjs" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" />
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="redux" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
+  <img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white" alt="git" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+  <img src="https://img.shields.io/badge/Heroku-79589f?style=for-the-badge&logo=Heroku&logoColor=white" alt="heroku">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />
+  <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="material-ui" />
+  <img src="https://img.shields.io/badge/Chakra%20UI-3bc7bd?style=for-the-badge&logo=chakraui&logoColor=white" alt="chakra-ui" />
+  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="styled-components" />
+</p>
+
+---
+
+
+<p align="left">
+  
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jitesh-95" alt="jitesh" /></a>
+</p>
+
+---
+
+<p>
+  <img  height="140" alt="Jha-Vineet69's Top Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jitesh-95&hide=smalltalk&theme=algolia&layout=compact"/>
+
+ <img height="140" alt="Jitesh's github stats" src="https://github-readme-stats.vercel.app/api?username=jitesh-95&show_icons=true&theme=algolia&count_private=true" />
+ <img height="140" src="https://github-readme-streak-stats.herokuapp.com/?user=jitesh-95&hide=smalltalk&theme=algolia&layout=compact" alt="jitesh-95" />
+  
+</p>  
 
 ---
 
